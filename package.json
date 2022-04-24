@@ -1,5 +1,5 @@
 {
-  "name": "pepBoard",
+  "name": "himanshuBoard",
   "version": "1.0.0",
   "description": "",
   "main": "express.js",
@@ -11,15 +11,11 @@
   "scripts": {
     "start":"node express"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Pep-DEV101/PepBoard.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Pep-DEV101/PepBoard/issues"
+    "url": "https://github.com/HIMANSHUTHAKUR00/SharingWhiteBoard/issues"
   },
-  "homepage": "https://github.com/Pep-DEV101/PepBoard#readme"
+  "homepage": "https://github.com/HIMANSHUTHAKUR00/SharingWhiteBoard"
 }
