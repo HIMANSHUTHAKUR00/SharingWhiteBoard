@@ -21,7 +21,7 @@ Project is created with:
 ![UI Image](./UI.png)
 
   
-## Deploy Uing Heroku :-
+## Deploy Using Heroku :-
 [Click Link](https://sharingwhiteboard.herokuapp.com/)
 
 
