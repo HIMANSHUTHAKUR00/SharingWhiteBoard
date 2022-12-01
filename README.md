@@ -1,4 +1,4 @@
-# Final Year Project
+# Project
 
 ## Discription :small_red_triangle_down: :-
 panademic Openboard
