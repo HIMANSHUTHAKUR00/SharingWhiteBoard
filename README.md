@@ -1,7 +1,7 @@
 # Project
 
 ## Description  :small_red_triangle_down: :-
-pandemic Openboard
+Pandemic Openboard
 Added Functionalities using Canvas & JavaScript library.
 This project will solve problems faced while keeping social distance in pandemic situation.
 The idea here is to teach students through whiteboard but in virtual platform.
